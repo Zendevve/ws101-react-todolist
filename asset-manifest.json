@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-react-todolist/static/css/main.35615849.css",
+    "main.js": "/ws101-react-todolist/static/js/main.1efee71a.js",
+    "static/js/453.ffbcad76.chunk.js": "/ws101-react-todolist/static/js/453.ffbcad76.chunk.js",
+    "static/media/a-painting-of-hobbiton-and-bag-end--lush-green-hil.png": "/ws101-react-todolist/static/media/a-painting-of-hobbiton-and-bag-end--lush-green-hil.c86562e095293c1dfc68.png",
+    "index.html": "/ws101-react-todolist/index.html",
+    "main.35615849.css.map": "/ws101-react-todolist/static/css/main.35615849.css.map",
+    "main.1efee71a.js.map": "/ws101-react-todolist/static/js/main.1efee71a.js.map",
+    "453.ffbcad76.chunk.js.map": "/ws101-react-todolist/static/js/453.ffbcad76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35615849.css",
+    "static/js/main.1efee71a.js"
+  ]
+}
